@@ -1,4 +1,7 @@
+package org.contador.model;
+
 import java.util.Scanner;
+import org.contador.service.ParametrosInvalidosException;
 
 public class Contador {
     public static void main(String[] args) throws Exception {
